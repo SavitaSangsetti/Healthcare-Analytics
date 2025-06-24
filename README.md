@@ -1,5 +1,5 @@
 # Healthcare-Analytics
-1.Introduction
+1.Overview
 In today’s data-driven world, the healthcare sector stands to gain significantly from advanced analytics. The Healthcare Analytics Project is designed to harness the power of data to improve patient outcomes, streamline clinical and administrative operations, and support evidence-based decision-making.
 By analyzing a rich dataset comprising information on patients, doctors, visits, treatments, and lab results, the project uncovers meaningful insights into healthcare delivery and system performance. Through the use of powerful visualization tools like Excel, Power BI, and Tableau, interactive dashboards have been developed to highlight key metrics such as patient demographics, treatment outcomes, lab abnormalities, and healthcare costs.
 By identifying areas for improvement, the project supports continuous enhancement of patient care and operational efficiency across the healthcare system.
