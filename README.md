@@ -27,4 +27,4 @@ This Healthcare Analytics Project provided valuable insights into patient demogr
 6.Screenshots:
 Excel Dashboard:[https://github.com/SavitaSangsetti/Healthcare-Analytics/blob/main/Snapshot%20of%20Excel%20Dashboard.png]
 Power BI Dashboard:[https://github.com/SavitaSangsetti/Healthcare-Analytics/blob/main/Snapshot%20of%20Power%20BI%20Dashboard.png]
-Tableau Dashboard:[]
+Tableau Dashboard:[https://github.com/SavitaSangsetti/Healthcare-Analytics/blob/main/Snapshot%20of%20Tableau%20Dashboard.png]
