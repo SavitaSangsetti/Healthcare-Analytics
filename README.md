@@ -25,6 +25,6 @@ Improve treatment success rates by reviewing care protocols. Promote preventive 
 This Healthcare Analytics Project provided valuable insights into patient demographics, treatment outcomes, lab test results, and healthcare resource distribution. By leveraging tools like Excel, Power BI, and Tableau, we were able to identify key areas for improvement such as treatment effectiveness, cost management, and preventive care. The analysis highlights the importance of data-driven strategies in enhancing healthcare delivery and optimizing operational efficiency. With the right interventions and continuous monitoring, healthcare providers can significantly improve patient outcomes and overall service quality.
 
 6.Screenshots:
-Excel Dashboard:[]
+Excel Dashboard:[https://github.com/SavitaSangsetti/Healthcare-Analytics/blob/main/Snapshot%20of%20Excel%20Dashboard.png]
 Power BI Dashboard:[]
 Tableau Dashboard:[]
